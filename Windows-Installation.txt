@@ -1,8 +1,8 @@
 cd --
 cd Documents
-mkdir Local_TV
-cd Local_TV
-rm -rf Login-List
+mkdir Teamviewer-Login-List
+cd Teamviewer-Login-List
+rm -rf Local_TV
 git clone https://github.com/saiyedaws/Local_TV
 
 echo done Updating/Downloading Local_TV
